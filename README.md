@@ -4,7 +4,7 @@
 **[Click Here to View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/vishnu.kaushik.varma.vuddaraju/viz/LMSAccessibilityStudentEngagementAnalysis/Dashboard1?publish=yes)**
 
 ## 🎯 Objective
-As learning management systems (LMS) become the primary vehicle for education, ensuring WCAG 2.1 accessibility compliance is critical. This project analyzes a simulated dataset of 10,000 student records to determine if highly accessible courses correlate with better academic outcomes and higher student engagement.
+As learning management systems (LMS) become the primary vehicle for education, ensuring WCAG 2.1 accessibility compliance is critical. This project analyzes a simulated opensource dataset of 10,000 student records to determine if highly accessible courses correlate with better academic outcomes and higher student engagement.
 
 ## 🛠️ Tech Stack
 * **Data Engineering:** Python (Pandas, NumPy, Faker)
